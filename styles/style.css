@@ -1,0 +1,29 @@
+html {
+	font-size: 10px;
+	font-family: 'Neucha', cursive;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+	margin: 0;
+	padding: 20px 0;
+}
+
+body {
+	width: 600px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+}
+
+img {
+	width: 500px;
+	display: block;
+	margin: 0 auto;
+}
+
+p, li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
